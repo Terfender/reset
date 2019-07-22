@@ -1,3 +1,0 @@
-class Reset:
-    pass
-

@@ -1,2 +1,0 @@
-defmodule Reset do
-end
